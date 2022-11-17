@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "internal-interview-candidates",
+  "private_key_id": "2e76674dddec7fa07f9f8623c7492476d35aeac2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtFSICTYm1KEO6\nIevd64/LCKJi1bpANEKXlXaMhEGJVY45OkTVVStiumGEuKnbD5AigVClZx75jowC\nBQ95ZcIbrQrdFORr67yZcI/6whKcE8Rbh2+MLrE9ckoPBSZD8+oCX0clrkjuiuVM\n1xRkVCVVFtAKWl4D+IiFkkHu3tbEOd1jMNAgkStW0zuyET/xaxdHoCxCxfO+BMPv\ngXbH3GiA6Osd0A9BxP1qHkH7swNX6jeDu3TyjoKKlPuHQGTE07Jr8b3Bwglg/V7a\nxXkxJ0weBECsVkvan9NK21wuVQKCE+1q8yijG83JH1om3PI0TNi/CoPTD63KY24T\nBJJMjJVdAgMBAAECggEAEWdXwUSGWB1sMKSli23aym8b/kqAYmFUNYV1Y1a5zPM5\n4ajpb/a9mJKmKKAgOuM7OoT8lM0kMQgeLZElslltkGEw1PR7WBte86InusQAoV9e\ny1dN0O+G/zyP6X0P5nL5xkhJ+/t6NjuS0qGpLsIZSOTfgWhUc3DDsC6ki5ODo+ev\n8Chz51YzzCkv04bw4GTjo7wG1wzTtwACCVXR0QWW0hGw/8MzF5oVn2Sh612NipTS\nfcZtkOiwzs9eGkhpa1TosbyQCk3zuje/pz/5Om/nflLLD/Gd+CBMaYnZR4+ud0Du\nTSSFJR/I31ijCM91Gt8+wCWul9Mh+bgq1O+CIzw4jwKBgQDZEjTU97kSlKf6D7+6\n8KSxnDFnRIAc2+PrjZ9LhwP3lIoVs4vilVYaO0I5VbGbdrib5uxpYIQ6Kj8p0Qel\n/H/H/mUStNdXNAq4LtTPGCRJdH2ZEWHworWv4DMlYw8bGzDzKGHvSvSUkYxolVfD\nYH1VI9PvFdnHnAsNJcq111qupwKBgQDMH2ZAy7jWqG0udFNHJPoqufSNOxhqhjmx\ng8vxMfAmm6NQJLBVC0eLnwQS2kASHjw+KsLv9mmm5I2YTva/gTRMlYA4PBWuBMy2\n/NyHezuqgFy3cIGkcyqZIa2QCy+ALE7rmT/9HKDXyCvb/z72ZQ4bH4FY2T5MSqI+\n3b0MDLuAWwKBgQCC7lJjqtA8/uGbGWjCb2hHoTjDWzQTNCbz68aLnfKsoTHxCQ11\nLDJ1PA0j3CZ26VNM5irvHMJk+xqCNIzyd6zziuSYNfA1rzRQCB9gkuVAUT142F1E\n8j+4x/jRskBoTyxlXpRD6+g+vNP+OSZouIiglC2/ZmSn291mnsb4i98svQKBgQC9\nQa+xDDJI9MimdbxxDlvVGa0g9VXiDqmXaTfCXibn5Q461ImZkGe5kKpaQHl/UwFQ\nMp2jl7jFwMt4GF63mLhA+ax0d2Eyg8i7MR/Xje74WyOcAXhyXUV1zb/6+iQElxBl\naSXnLJAFAdeIltRt56x4gXGQS3xziA9+cmFBttxyWQKBgBZLuoXR70sT3B5hXail\n0nGma6BuZwFMekifuUjbs3mD4Siu7WXbiN3DJPaM67aRF7Iepz2u/GXfJ/Ng1t9p\nXw++xY+LY8aDG/2oe6tcwB97o0zuSAkGqhS5JTq0EnLE3hQzKmKMnEkSz+TlrXEg\nZ4q/nLYzCCL8oR+eXaLgfI65\n-----END PRIVATE KEY-----\n",
+  "client_email": "rohan-terraform-gcp@internal-interview-candidates.iam.gserviceaccount.com",
+  "client_id": "103587803763427860726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rohan-terraform-gcp%40internal-interview-candidates.iam.gserviceaccount.com"
+}
