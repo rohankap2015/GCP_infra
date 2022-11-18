@@ -1,3 +1,5 @@
+# GCP provider
+
 terraform {
   required_providers {
       google = {
@@ -8,7 +10,6 @@ terraform {
 
 provider "google" {
   project = "internal-interview-candidates"
-  region = "us-central1"
-  zone = "us-central1-a"
+  region = "europe-west1"
+  zone = "europe-west1-b"
 }
-
